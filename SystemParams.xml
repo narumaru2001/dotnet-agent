@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<OracleProviderFactories>System.Data.OracleClient</OracleProviderFactories>
+	<OracleConnectionString>Provider=OraOLEDB.Oracle;User Id=*****;Password=*****;Data Source=*****.example.ac.jp ;UseSessionFormat=1</OracleConnectionString>
+</configuration>

@@ -1,0 +1,23 @@
+{
+  "name": "dotnet-agent-sample",
+  "version": "1.0.0",
+  "description": "既存の .NET DLL を AI から呼び出すサンプル Plugin",
+  "skills": [
+    {
+      "id": "hello",
+      "path": "skills/hello"
+    },
+    {
+      "id": "greet",
+      "path": "skills/greet"
+    },
+    {
+      "id": "add",
+      "path": "skills/add"
+    },
+    {
+      "id": "multiply",
+      "path": "skills/multiply"
+    }
+  ]
+}

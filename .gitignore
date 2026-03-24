@@ -1,0 +1,14 @@
+# .NET build output
+dotnet/SampleLib/bin/
+dotnet/SampleLib/obj/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
